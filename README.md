@@ -2,33 +2,33 @@
 
 ### Consonants
 ![alt text][consonants]
-
 [consonants]: http://skyknowledge.com/TxawjVag-con.gif "Nyiakeng Puachue Hmong Consonants"  
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
+
 ### Vowels
 ![alt text][vowels]
-
 [vowels]: http://skyknowledge.com/TxawjVag-vow.gif "Nyiakeng Puachue Hmong Vowels"  
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
+
 ### Tones
 ![alt text][tones]
-
 [tones]: http://skyknowledge.com/TxawjVag-ton.gif "Nyiakeng Puachue Hmong Tones"  
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
+
 ### Noun Indicators
 ![alt text][noun-indicators]
-
 [noun-indicators]: http://skyknowledge.com/TxawjVag-extra.gif "Nyiakeng Puachue Hmong Noun Indicators"  
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
+
 ### Numerals
 ![alt text][numerals]
-
 [numerals]: http://skyknowledge.com/TxawjVag-num.gif "Nyiakeng Puachue Hmong Noun Numerals"  
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
+
 
 
 ## History
