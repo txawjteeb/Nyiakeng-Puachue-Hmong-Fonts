@@ -51,7 +51,7 @@ MONG.TTF - March 3, 1994
 WCLMONG1.TTF - March 31, 1995  
 WCLMONG2.TTF - April 11, 1995  
 MONG1_10.TTF - January 23, 2010  
-![screenshot](images/Kiku.jpg)  
+![](screenshots/screenshot.png)
 
 ## Today
 Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Technical Committee meeting 151 on May 8, 2017 in San Jose, CA.
