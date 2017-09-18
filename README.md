@@ -35,7 +35,6 @@ Photo by *Ian James & Mattias Persson/Sky Knowledge*
 Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 
-
 ## History
 The first known font creation of the Nyiakeng Puachue Hmong Fonts started in May 1, 1993. Though the script conceptualization started many years ago in the 1980s by Reverend Cher Vang Kong. He was tasked by General Vang Pao during their meeting in Santa Ana, CA to try and develop the Hmong language and script for the Hmong language use. It was known during the time that the Hmong RPA written system was a script that was not sufficient for future Hmong language development and was not able to fully capture the whole Hmong language. The Hmong RPA system was popularly attributed to Dr. William Smalley, Dr. George Linwood Barney, and Father Yves Bertrais (also popularly known as Txiv Plig Nyiaj Pov).
 
@@ -43,6 +42,16 @@ After several years of research all over Laos, Thailand, and even in China where
 
 Afterwards, the development and progress of the scripts became more in use in the church that Reverend Cher Vang Kong had founded, United Christians Liberty Evangelical Church. The script had been implemented into type writers, hymnals, videos, books, banners, teaching/educational materials, and many others. The script spreaded rapidly in the late 1980s and early 1990s within the churches and started to become more well-known and exposed outside of the church to the Hmong community and even outside of the United States. Some materials and books written in Nyiakeng Puachue Hmong can still be found outside of the United States such as France, Laos, Thailand, Vietnam, China and Australia.
 
+## Font Creation Approximate Dates
+MONG_CN.TTF - May 1, 1993  
+MONG_HE.TTF - May 1, 1993  
+MONG_HT.TTF - May 1, 1993  
+MONG_NEW.TTF - December 5, 1993  
+MONG.TTF - March 3, 1994  
+WCLMONG1.TTF - March 31, 1995  
+WCLMONG2.TTF - April 11, 1995  
+MONG1_10.TTF - January 23, 2010  
+![screenshot](images/Kiku.jpg)  
 
 ## Today
 Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Technical Committee meeting 151 on May 8, 2017 in San Jose, CA.
