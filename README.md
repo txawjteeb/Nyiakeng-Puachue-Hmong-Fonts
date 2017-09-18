@@ -4,26 +4,31 @@
 ![alt text][consonants]
 
 [consonants]: http://skyknowledge.com/TxawjVag-con.gif "Nyiakeng Puachue Hmong Consonants"
+Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 ### Vowels
 ![alt text][vowels]
 
 [vowels]: http://skyknowledge.com/TxawjVag-vow.gif "Nyiakeng Puachue Hmong Vowels"
+Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 ### Tones
 ![alt text][tones]
 
 [tones]: http://skyknowledge.com/TxawjVag-ton.gif "Nyiakeng Puachue Hmong Tones"
+Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 ### Noun Indicators
 ![alt text][noun-indicators]
 
 [noun-indicators]: http://skyknowledge.com/TxawjVag-extra.gif "Nyiakeng Puachue Hmong Noun Indicators"
+Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 ### Numerals
 ![alt text][numerals]
 
 [numerals]: http://skyknowledge.com/TxawjVag-num.gif "Nyiakeng Puachue Hmong Noun Numerals"
+Photo by *Ian James & Mattias Persson/Sky Knowledge*
 
 
 ## History
@@ -39,7 +44,7 @@ Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Tec
 
 ## Resources & Links
 You can learn more about the Script [here](http://skyknowledge.com/mong-ntaub3.htm).
-You can see the Unicode Script proposal [here] (http://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf).
+You can see the Unicode Script proposal [here](http://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf).
 You can also see the Unicode Status [here](http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=f6vf3vzlls).
 
 You can learn more about United Christians Liberty Evangelical Church [here](http://uclemainoffice.com/).
