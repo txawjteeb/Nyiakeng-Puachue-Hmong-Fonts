@@ -1,34 +1,29 @@
 # Nyiakeng Puachue Hmong Fonts
 
 ### Consonants
-Reference-style: 
-![alt text][logo]
+![alt text][consonants]
 
-[logo]: http://skyknowledge.com/TxawjVag-con.gif "Nyiakeng Puachue Hmong Consonants"
+[consonants]: http://skyknowledge.com/TxawjVag-con.gif "Nyiakeng Puachue Hmong Consonants"
 
 ### Vowels
-Reference-style: 
-![alt text][logo]
+![alt text][vowels]
 
-[logo]: http://skyknowledge.com/TxawjVag-vow.gif "Nyiakeng Puachue Hmong Vowels"
+[vowels]: http://skyknowledge.com/TxawjVag-vow.gif "Nyiakeng Puachue Hmong Vowels"
 
 ### Tones
-Reference-style: 
-![alt text][logo]
+![alt text][tones]
 
-[logo]: http://skyknowledge.com/TxawjVag-ton.gif "Nyiakeng Puachue Hmong Tones"
+[tones]: http://skyknowledge.com/TxawjVag-ton.gif "Nyiakeng Puachue Hmong Tones"
 
 ### Noun Indicators
-Reference-style: 
-![alt text][logo]
+![alt text][noun-indicators]
 
-[logo]: http://skyknowledge.com/TxawjVag-extra.gif "Nyiakeng Puachue Hmong Noun Indicators"
+[noun-indicators]: http://skyknowledge.com/TxawjVag-extra.gif "Nyiakeng Puachue Hmong Noun Indicators"
 
 ### Numerals
-Reference-style: 
-![alt text][logo]
+![alt text][numerals]
 
-[logo]: http://skyknowledge.com/TxawjVag-num.gif "Nyiakeng Puachue Hmong Noun Numerals"
+[numerals]: http://skyknowledge.com/TxawjVag-num.gif "Nyiakeng Puachue Hmong Noun Numerals"
 
 
 ## History
