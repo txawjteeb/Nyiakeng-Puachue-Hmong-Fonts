@@ -57,6 +57,7 @@ MONG1_10.TTF - January 23, 2010
 
 ## Today
 Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Technical Committee meeting 151 on May 8, 2017 in San Jose, CA.
+October 18, 2017 - The New York Times Magazine briefly mentioned about Nhiakeng Puachue Hmong [here](https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?smid=fb-share).
 
 ## Resources & Links
 You can learn more about the Script [here](http://skyknowledge.com/mong-ntaub3.htm).  
