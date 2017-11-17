@@ -60,9 +60,12 @@ Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Tec
 
 October 18, 2017 - The New York Times Magazine briefly mentioned about Nhiakeng Puachue Hmong [here](https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?smid=fb-share).
 
-November 16, 2017 - A video by Founder, Rev. Chervang Vang, explaining the inspiration behind the Nyiakeng Puachue Hmong scripts.
+November 16, 2017 - A video by Founder of Nyiakeng Puachue Hmong script, Rev. Chervang Vang, explaining the inspiration behind the Nyiakeng Puachue Hmong scripts.
+
 
 [![Pipulate YouTube Playlist](https://i.ytimg.com/vi_webp/kPy4Vi3M398/hqdefault.webp)](https://youtu.be/kPy4Vi3M398)
+
+*Video Spoken in Hmong, English subtitles will be provided soon.*
 
 ## Resources & Links
 You can learn more about the Script [here](http://skyknowledge.com/mong-ntaub3.htm).  
