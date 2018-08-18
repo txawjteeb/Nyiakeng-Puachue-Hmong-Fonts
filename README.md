@@ -72,7 +72,7 @@ You can learn more about the Script [here](http://skyknowledge.com/mong-ntaub3.h
 You can see the Unicode Script proposal [here](http://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf).  
 You can also see the Unicode Status [here](http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=f6vf3vzlls).  
 
-You can learn more about United Christians Liberty Evangelical Church [here](http://uclemainoffice.com/).  
+You can learn more about United Christians Liberty Evangelical Church [here](https://www.ucleministry.org/).  
 You can also learn more about Reverend Cher Vang Kong and his biography through his book [here](https://www.amazon.com/Finding-God-Cher-Vang-Kong/dp/1498442668).  
 
 We are continually updating the status of the Unicode Script Submission and its implementation.
