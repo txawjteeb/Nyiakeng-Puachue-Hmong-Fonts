@@ -62,6 +62,8 @@ October 18, 2017 - The New York Times Magazine briefly mentioned about Nhiakeng 
 
 November 16, 2017 - A video by Founder of Nyiakeng Puachue Hmong script, Rev. Chervang Vang, explaining the inspiration behind the Nyiakeng Puachue Hmong scripts.
 
+March 5, 2019 - Nyiakeng Puachue Hmong Script has been published onto Unicode Version 12.0.0. [here](http://unicode.org/versions/Unicode12.0.0/).
+
 
 [![Pipulate YouTube Playlist](https://i.ytimg.com/vi_webp/kPy4Vi3M398/hqdefault.webp)](https://youtu.be/kPy4Vi3M398)
 
