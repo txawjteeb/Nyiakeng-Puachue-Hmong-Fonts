@@ -52,18 +52,23 @@ MONG_NEW.TTF - December 5, 1993
 MONG.TTF - March 3, 1994  
 WCLMONG1.TTF - March 31, 1995  
 WCLMONG2.TTF - April 11, 1995  
-MONG1_10.TTF - January 23, 2010  
+MONG1_10.TTF - January 23, 2010 
 ![](screenshots/screenshot.png)
+
+
+MongBitmap.ttf - September 8, 2020
+![](screenshots/MongBitmap.png)
 
 ## Today
 Nyiakeng Puachue Hmong script has been submitted and approved in the Unicode Technical Committee meeting 151 on May 8, 2017 in San Jose, CA.
 
-October 18, 2017 - The New York Times Magazine briefly mentioned about Nhiakeng Puachue Hmong [here](https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?smid=fb-share).
+October 18, 2017 - The New York Times Magazine briefly mentioned about Nyiakeng Puachue Hmong [here](https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?smid=fb-share).
 
 November 16, 2017 - A video by Founder of Nyiakeng Puachue Hmong script, Rev. Chervang Vang, explaining the inspiration behind the Nyiakeng Puachue Hmong scripts.
 
 March 5, 2019 - Nyiakeng Puachue Hmong Script has been published onto Unicode Version 12.0.0. [here](http://unicode.org/versions/Unicode12.0.0/).
 
+October 15, 2020 - Nyiakeng Puachue Hmong Script Committee has been invited to speak about the Digitization and Language Sustainability at the internationalization & Unicode Conference 44 held Virtually from October 14-16, 2020. [here](https://www.unicodeconference.org/bios.htm#Lee).
 
 [![Pipulate YouTube Playlist](https://i.ytimg.com/vi_webp/kPy4Vi3M398/hqdefault.webp)](https://youtu.be/kPy4Vi3M398)
 
