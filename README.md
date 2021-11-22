@@ -75,7 +75,7 @@ October 15, 2020 - Nyiakeng Puachue Hmong Script Committee has been invited to s
 *Video Spoken in Hmong, English subtitles will be provided soon.*
 
 ## Resources & Links
-You can learn about Mhong International Language Center [here](https://www.mhongilc.org).
+You can learn about Mhong International Language Center [here](https://www.mhongilc.org).  
 You can learn more about the Script [here](http://skyknowledge.com/mong-ntaub3.htm).  
 You can see the Unicode Script proposal [here](http://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf).  
 You can also see the Unicode Status [here](http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=f6vf3vzlls).  
